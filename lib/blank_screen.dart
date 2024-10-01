@@ -22,8 +22,9 @@ class _BlankScreenState extends State<BlankScreen> {
   }
 
   void call() async {
-    print('call ho gaya');
+    print('Call complete');
     int x = await fetchSkillsFromDatabase();
+    //Do this later
     // int y = await fetchInternships();
     // Future.delayed(Duration(seconds: 7), () {
     //   print('yessir');
