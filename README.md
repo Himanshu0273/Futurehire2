@@ -1,5 +1,11 @@
+# Future Hire
+
 ## Introduction
-Welcome to the FutureHire! This Flutter application is designed to [briefly describe the purpose of your app]. This README will guide you through setting up Flutter, running the app in Visual Studio Code (VS Code), and using an emulator.
+Welcome to **Future Hire**! This Flutter application is designed to [briefly describe the purpose of your app]. This README will guide you through setting up Flutter, running the app in Visual Studio Code (VS Code), and using an emulator.
+
+## Flutter Version
+- **Flutter SDK**: 3.19.6
+- **Dart SDK**: 3.3.4
 
 ## Prerequisites
 
@@ -88,6 +94,6 @@ Before you start, ensure you have the following installed on your computer:
 
 ## Conclusion
 
-You are now set up to run the Flutter application! If you have any questions or issues, feel free to reach out. Happy coding!
+You are now set up to run the **Future Hire** application! If you have any questions or issues, feel free to reach out. Happy coding!
 
 ---
